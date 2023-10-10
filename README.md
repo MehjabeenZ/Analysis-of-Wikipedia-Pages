@@ -67,14 +67,6 @@ Each JSON file is organised as an array of arrays. The larger array represents a
 |`agent`|`string`|The type of agent that is considered when returning the number of views|
 |`views`|`int`|The number of page views for the article at a timestamp that falls within the range for the given agent type|
 
-## Results
-
-### 1. Maximum Average and Minimum Average
-
-### 2. Top 10 Peak Page Views
-
-### 3. Fewest Months of Data
-
 ## Special Considerations
 - The API call takes a considerable amount of time. To account for lag, a try/except block of code has been added. 
 

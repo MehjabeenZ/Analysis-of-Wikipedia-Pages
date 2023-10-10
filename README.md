@@ -37,6 +37,13 @@ This project has the following structure:
 ├── LICENSE
 └── README.md
 ```
+
+## Steps to Reproduce This Research
+
+1. Install the required resources as listed in the Resources header above. 
+2. Run the Monthly Article Traffic Analysis.ipynb file.
+3. Analyze results.
+
 ## Data 
 
 Source Files:

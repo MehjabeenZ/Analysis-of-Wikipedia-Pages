@@ -1,10 +1,6 @@
-# Homework 1: Professionalism & Reproducibility
+# Analysis of Monthly Article Traffic for Wikipedia Pages
 
-This repository contains the data files, code and results of Homework 1, for the course Data 512: Human Centered Data Science at the University of Washington's MS in Data Science program. 
-
-## Goal of Assignment
-
-The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from July 1, 2015 through September 30, 2023. 
+This repository contains the data files, code and results of this project. The goal of this project is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from July 1, 2015 through September 30, 2023. 
 
 ## Resources Used
 - Editor used: VS Code
